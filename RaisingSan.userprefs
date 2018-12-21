@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ninja.cs">
+    <Files>
+      <File FileName="Assets\scripts\ninja.cs" Line="35" Column="73" />
+      <File FileName="Assets\scripts\GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ScrollingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\RepeatingBackground.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Temple.cs" Line="16" Column="5" />
+      <File FileName="Assets\scripts\TemplePool.cs" Line="8" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
